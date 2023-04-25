@@ -1,1 +1,1 @@
-It was some new text.
+It was some new text. It was changed.
